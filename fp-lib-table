@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Adafruit Feather 32u4 Bluefruit LE")(type KiCad)(uri "/home/oj/prime_ble/PCB/Prime_BLE/Adafruit Feather 32u4 Bluefruit LE.pretty")(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri /home/oj/Documents/GitHub/keyboard_parts.pretty)(options "")(descr ""))
+)

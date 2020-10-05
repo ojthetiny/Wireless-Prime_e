@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Adafruit_Feather_32u4_Bluefruit_LE_mod2-cache)(type Legacy)(uri "/home/oj/prime_ble/PCB/Prime_BLE/Adafruit Feather 32u4 Bluefruit LE_mod2-cache.lib")(options "")(descr ""))
+  (lib (name Adafruit_Feather_32u4_Bluefruit_LE_mod2-rescue)(type Legacy)(uri "/home/oj/prime_ble/PCB/Prime_BLE/Adafruit Feather 32u4 Bluefruit LE_mod2-rescue.lib")(options "")(descr ""))
+)

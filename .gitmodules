@@ -1,0 +1,9 @@
+[submodule "random-keyboard-parts.pretty"]
+	path = random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty.git
+[submodule "MX_Alps_Hybrid.pretty"]
+	path = MX_Alps_Hybrid.pretty
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.pretty
+[submodule "Adafruit_BLE"]
+	path = Adafruit_BLE
+	url = https://github.com/ojthetiny/Adafruit_BLE.git
